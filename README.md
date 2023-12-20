@@ -1,4 +1,4 @@
-#<span style="color: #1E752B;">ECO</span><span style="color: #EBB02D;">SCAN </span><span>: Sustainable Shopping Assistans</span>
+## <span style="color: #1E752B;">ECO</span><span style="color: #EBB02D;">SCAN </span><span>: Sustainable Shopping Assistans</span>
 <a name="readme-top"></a>
 <p align="center">
   <img width="240" src="https://github.com/Bangkit-Capstone-Ecoscan/Mobile-Development/blob/main/recouses/homescreen.gif">
